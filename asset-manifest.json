@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Visal-CRUD-WebApp/static/css/main.92289ec7.css",
+    "main.js": "/Visal-CRUD-WebApp/static/js/main.66988e4e.js",
+    "static/js/977.2caed02d.chunk.js": "/Visal-CRUD-WebApp/static/js/977.2caed02d.chunk.js",
+    "static/js/455.37e924d0.chunk.js": "/Visal-CRUD-WebApp/static/js/455.37e924d0.chunk.js",
+    "index.html": "/Visal-CRUD-WebApp/index.html",
+    "main.92289ec7.css.map": "/Visal-CRUD-WebApp/static/css/main.92289ec7.css.map",
+    "main.66988e4e.js.map": "/Visal-CRUD-WebApp/static/js/main.66988e4e.js.map",
+    "977.2caed02d.chunk.js.map": "/Visal-CRUD-WebApp/static/js/977.2caed02d.chunk.js.map",
+    "455.37e924d0.chunk.js.map": "/Visal-CRUD-WebApp/static/js/455.37e924d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92289ec7.css",
+    "static/js/main.66988e4e.js"
+  ]
+}
