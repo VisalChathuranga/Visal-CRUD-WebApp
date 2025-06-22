@@ -63,19 +63,20 @@ This project leverages the following technologies:
 6. Access the app at http://localhost:3000.
 
 🔒 Security
-JWT Authentication: Ensures only authenticated users can access protected routes.
-Token Storage: Securely stores tokens in localStorage with header authorization.
+   JWT Authentication: Ensures only authenticated users can access protected routes.
+   Token Storage: Securely stores tokens in localStorage with header authorization.
+
 🌐 Deployment
-This app can be deployed using platforms like Heroku, Vercel, or Render. Contact the developer for deployment assistance!
+   This app can be deployed using platforms like Heroku, Vercel, or Render. Contact the developer for deployment assistance!
 
 🤝 Contributing
-Feel free to fork this repository, submit issues, or send pull requests. Let’s build something amazing together! Contributions are welcome from the open-source community.
+   Feel free to fork this repository, submit issues, or send pull requests. Let’s build something amazing together! Contributions are welcome from the open-source community.
 
 👨‍💻 About the Developer
-Name: T.A. Visal Chathuranga
-Affiliation: Faculty of Engineering, University of Peradeniya
-Email: e19056@eng.pdn.ac.lk
+   -**Name**: T.A. Visal Chathuranga
+   -**Affiliation**: Faculty of Engineering, University of Peradeniya
+   -**Email**: e19056@eng.pdn.ac.lk
 
 
-© 2025 T.A. Visal Chathuranga. 
-All rights reserved.
+   © 2025 T.A. Visal Chathuranga. 
+   All rights reserved.
