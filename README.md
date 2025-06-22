@@ -73,10 +73,12 @@ Feel free to fork this repository, submit issues, or send pull requests. Let’s
 
 👨‍💻 About the Developer
 Name: T.A. Visal Chathuranga
+
 Affiliation: Faculty of Engineering, University of Peradeniya
-Contact:
-GitHub
+
+Contact:GitHub
 LinkedIn
+
 Email: e19056@eng.pdn.ac.lk
 
 
