@@ -78,4 +78,6 @@ Contact:
 GitHub
 LinkedIn
 Email: e19056@eng.pdn.ac.lk
-© 2025 T.A. Visal Chathuranga. All rights reserved.
+© 2025 T.A. Visal Chathuranga. 
+
+All rights reserved.
